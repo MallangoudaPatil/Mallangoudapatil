@@ -65,10 +65,10 @@ A structured overview of core concepts, methods, and tools in Artificial Intelli
 ---
 
 ## 🛠️ Tools & Frameworks
-- **Languages**: Python, R
-- **Libraries**: NumPy, Pandas, Scikit-learn
+- **Languages**: Python, MATLAB
+- **Libraries**: NumPy, Pandas, Matplotlib, OpenCV, scikit-image, Pillow
+- **Machine Learning**: Scikit-learn
 - **Deep Learning**: TensorFlow, PyTorch, Keras
-- **Deployment**: Flask, FastAPI, AWS, Google Cloud, Azure
 
 ---
 
