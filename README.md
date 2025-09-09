@@ -73,6 +73,4 @@ A structured overview of core concepts, methods, and tools in Artificial Intelli
 ---
 
 ## ⚖️ Ethical AI
-- **Fairness**: Bias Mitigation
-- **Privacy**: Data Anonymization
 - **Transparency**: Explainable AI (XAI)
