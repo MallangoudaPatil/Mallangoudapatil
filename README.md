@@ -1,4 +1,4 @@
-# 🧠 AI Mind Map
+
 
 A structured overview of core concepts, methods, and tools in Artificial Intelligence.
 
